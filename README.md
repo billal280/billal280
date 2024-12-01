@@ -1,5 +1,5 @@
 # 💫 À propos de moi :
-😊 - Je suis actuellement développeur Backend chez Kaiman.<br>😎 - Je souhaite collaborer avec des développeurs spécialisés dans TensorFlow.<br>📚 - Je suis en train de me former à Java et Python.<br>🎯 - Mon objectif est d'acquérir des compétences pour interagir avec la blockchain et les intelligences artificielles.<br> ❓ - N'hésitez pas à me demander plus d'informations à propos de moi.<br>
+😊 - Je suis actuellement Ingénieur DevOps en alternance chez THALES.<br>😎.<br>📚 - Je suis en train de me former au machine learning. <br>🎯 - Mon objectif est d'acquérir des compétences pour interagir avec la blockchain et les intelligences artificielles.<br> ❓ - N'hésitez pas à me demander plus d'informations à propos de moi.<br>
 
 
 ## 🌐 Réseaux sociaux :
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=billal280&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
