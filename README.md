@@ -1,5 +1,5 @@
 # 💫 À propos de moi :
-😊 - Je suis actuellement Ingénieur DevOps en alternance chez THALES.<br>😎.<br>📚 - Je suis en train de me former au machine learning. <br>🎯 - Mon objectif est d'acquérir des compétences pour interagir avec la blockchain et les intelligences artificielles.<br> ❓ - N'hésitez pas à me demander plus d'informations à propos de moi.<br>
+😊 - Je suis actuellement Ingénieur DevOps en alternance chez THALES.<br>📚 - Je suis en train de me former au machine learning. <br>🎯 - Mon objectif est d'acquérir des compétences pour interagir avec la blockchain et les intelligences artificielles.<br> ❓ - N'hésitez pas à me demander plus d'informations à propos de moi.<br>
 
 
 ## 🌐 Réseaux sociaux :
